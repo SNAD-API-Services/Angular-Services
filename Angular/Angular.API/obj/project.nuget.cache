@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AxJLPNjJy1YAlcTEMWhFUdGwLpk+MmPUzEQx2l0kQUX/CgfmMzihDpOUB5A90iVZT3E3Q9Zex48AGRq2zlZjlw==",
+  "dgSpecHash": "CqQ+wttXSEvNxHErrf1ues9f/HT3+ypEPlv+u/b9V5ycJszBZzIsbiMNl9vS+LAEX/Elo2SPdHB/ipkouTBVzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santh\\OneDrive\\Desktop\\RARBACKEND\\Angular\\Angular.API\\Angular.API.csproj",
+  "projectFilePath": "C:\\Users\\santh\\OneDrive\\Desktop\\ANGSER\\Angular\\Angular.API\\Angular.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santh\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\santh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
